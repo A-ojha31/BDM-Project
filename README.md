@@ -19,13 +19,13 @@ Data Dump:
 The data received comprised patient records spanning three years, provided as separate Excel files. Each file contained information from multiple diagnostic centers, including details on tests conducted, associated costs, and patient profiles. To enable consistent analysis, the data from all sources was collated and consolidated into a single master sheet, forming a unified repository for further processing.
 
 Meta data:
-➔ Time Period: January 2022 – August 2024
-➔ Total Records: 1,02,183
+1. Time Period: January 2022 – August 2024
+2. Total Records: 1,02,183
   ● 2022: 32,919 rows
   ● 2023: 41,635 rows
   ● 2024 (till August): 27,629 rows
-➔ Data Coverage:
+3. Data Coverage:
   ● Key Fields: Patient ID, Age, Gender, Test Type, Test Cost, Location, Date of Visit
   ● Centers Included: 3 Centers
-➔ Data Consistency: Identical column structure across all sheets.
-➔ Size Distribution: Monthly records ranging from ~2,500 to ~4,000 rows per sheet.
+4. Data Consistency: Identical column structure across all sheets.
+5. Size Distribution: Monthly records ranging from ~2,500 to ~4,000 rows per sheet.
